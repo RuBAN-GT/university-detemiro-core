@@ -1,0 +1,13 @@
+{
+    "code"    : "theme",
+    "version" : "1.0",
+    "info"    : "Класс, служащий для организации тем.",
+    "services": "theme",
+    "author"  : "DetemiroTM",
+    "rels"    : [
+        {
+            "method": "support",
+            "name"  : "router"
+        }
+    ]
+}

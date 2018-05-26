@@ -1,0 +1,12 @@
+{
+    "code"   : "cookie-session",
+    "version": "1.0",
+    "author" : "DetemiroTM",
+    "info"   : "Авторизация по кукам или сессии.",
+    "rels"   : [
+        {
+            "method": "require",
+            "name"  : "loginAndPass"
+        }
+    ]
+}

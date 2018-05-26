@@ -1,0 +1,12 @@
+{
+    "code"    : "loginAndPass",
+    "version" : "1.0",
+    "info"    : "Модуль, добавляет логин и пароль для пользователей.",
+    "author"  : "DetemiroTM",
+    "rels"    : [
+        {
+            "method": "require",
+            "name"  : "basic"
+        }
+    ]
+}

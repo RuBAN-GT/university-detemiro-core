@@ -1,0 +1,13 @@
+{
+    "code"    : "redis",
+    "version" : "1.0",
+    "info"    : "Класс для кеширования через Redis (через пакет https://github.com/phpredis/phpredis)",
+    "services": "cache",
+    "author"  : "DetemiroTM",
+    "rels"    : [
+        {
+            "method": "require",
+            "name"  : "abstractClassCache"
+        }
+    ]
+}

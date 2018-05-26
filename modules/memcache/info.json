@@ -1,0 +1,13 @@
+{
+    "code":     "memcache",
+    "version":  "1.0",
+    "info":     "Класс для кеширования через Memcache.",
+    "services": "cache",
+    "author":   "DetemiroTM",
+    "rels":     [
+        {
+            "method": "require",
+            "name"  : "abstractClassCache"
+        }
+    ]
+}

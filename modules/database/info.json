@@ -1,0 +1,7 @@
+{
+    "code"    : "database",
+    "version" : "1.0",
+    "info"    : "Классы для работы с БД через PDO и её таблицами.",
+    "services": "db",
+    "author"  : "DetemiroTM"
+}

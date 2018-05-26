@@ -1,0 +1,6 @@
+{
+    "code"   : "mode.console",
+    "version": "1.0",
+    "info"   : "Экшен из `mode` для работы с консолью.",
+    "author" : "DetemiroTM"
+}

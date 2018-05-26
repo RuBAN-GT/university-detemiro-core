@@ -1,0 +1,13 @@
+{
+    "code"    : "usersfields",
+    "version" : "1.0",
+    "author"  : "DetemiroTM",
+    "info"    : "Модуль обрабатываемых пользовательских полей.",
+    "services": "fieldsControl,usersFields,user.fields",
+    "rels"    : [
+        {
+            "method": "require",
+            "name"  : "basic"
+        }
+    ]
+}

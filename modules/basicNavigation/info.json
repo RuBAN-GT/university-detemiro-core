@@ -1,0 +1,16 @@
+{
+    "code"   : "basicNavigation",
+    "version": "1.0",
+    "author" : "DetemiroTM",
+    "info"   : "Генерация навигации по правам и группам.",
+    "rels"   : [
+        {
+            "method": "require",
+            "name"  : "navigation"
+        },
+        {
+            "method": "require",
+            "name"  : "basic"
+        }
+    ]
+}

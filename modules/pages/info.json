@@ -1,0 +1,7 @@
+{
+    "code"    : "pages",
+    "version" : "1.0",
+    "services": "pages",
+    "info"    : "Модуль, добавляющий иерархичные события - страницы.",
+    "author"  : "DetemiroTM"
+}

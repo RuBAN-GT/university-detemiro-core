@@ -1,0 +1,13 @@
+{
+    "code"    : "router",
+    "version" : "1.0",
+    "info"    : "Роутер для Detemiro.",
+    "services": "router",
+    "author"  : "DetemiroTM",
+    "rels"    : [
+        {
+            "method": "require",
+            "name":   "pages"
+        }
+    ]
+}

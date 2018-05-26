@@ -1,0 +1,12 @@
+{
+    "code"   : "navigation",
+    "version": "1.0",
+    "author" : "DetemiroTM",
+    "info"   : "Генерация навигации.",
+    "rels"   : [
+        {
+            "method": "require",
+            "name"  : "router"
+        }
+    ]
+}

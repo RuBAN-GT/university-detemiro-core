@@ -1,0 +1,21 @@
+{
+    "code"    : "basic",
+    "version" : "1.0",
+    "info"    : "Модуль, добавляющий систему прав, групп, пользователей, опций",
+    "services": "options,users,user,usersProps,user.props,rules,groups",
+    "author"  : "DetemiroTM",
+    "rels"    : [
+        {
+            "method": "require",
+            "name"  : "pages"
+        },
+        {
+            "method": "require",
+            "name"  : "database"
+        },
+        {
+            "method": "support",
+            "name"  : "pages"
+        }
+    ]
+}

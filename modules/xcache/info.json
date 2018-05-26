@@ -1,0 +1,13 @@
+{
+    "code"    : "xcache",
+    "version" : "1.0",
+    "info"    : "Модуль для кеширования через XCache",
+    "services": "cache",
+    "author"  : "DetemiroTM",
+    "rels"    : [
+        {
+            "method": "require",
+            "name"  : "abstractClassCache"
+        }
+    ]
+}
